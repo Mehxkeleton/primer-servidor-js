@@ -1,3 +1,3 @@
-const init = require("./practica1-1");
+const init = require("./practica1-2");
 
 init.init();
